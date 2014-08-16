@@ -9,6 +9,7 @@ __author__ = 'johnp80'
 __email__ = 'johnp90380@gmail.com'
 
 
+# noinspection PyDefaultArgument
 class Village:
     """
 
@@ -75,6 +76,8 @@ class Village:
                      'Workshop': '50% faster infantry production',
                      'Resources': '3% more production of all resources',
                      'Market': 'None'}
+
+
 
 
 
