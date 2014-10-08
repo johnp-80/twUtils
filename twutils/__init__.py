@@ -1,5 +1,5 @@
 """
-
+    init file for twutils
 """
 
-__author__ = 'johnp80'
+__all__ = ['Village', 'worldConfig']
